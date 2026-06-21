@@ -65,8 +65,8 @@ ciencia-computacao-jornada/
 
 ## 🎯 Próximos Passos (Planejamento)
 - [ ] Subir todos os exercícios de lógica criados na disciplina de Programação.
-- [ ] Documentar o fluxo de telas e decisões do protótipo **SGPD** no Figma.
-- [ ] Adicionar os prompts estruturados e scripts criados nas aulas de IA.
+- [ x ] Documentar o fluxo de telas e decisões do protótipo **SGPD** no Figma.
+- [ x ] Adicionar os prompts estruturados e scripts criados nas aulas de IA.
 - [ ] Iniciar a estruturação do 2º semestre conforme o início das novas aulas.
 
 ---
